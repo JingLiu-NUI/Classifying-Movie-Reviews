@@ -1,0 +1,10 @@
+prediciotn of ds sample are: ['pos' 'neg' 'pos' ... 'pos' 'neg' 'pos']
+prediciotn  probability of ds sample are: [[0.0625     0.9375    ]
+ [1.         0.        ]
+ [0.17977528 0.82022472]
+ ...
+ [0.26666667 0.73333333]
+ [0.97183099 0.02816901]
+ [0.         1.        ]]
+accuracy of ds sample are: 50.5988575640317
+Fi score of ds sample are: 0.5360789063851877

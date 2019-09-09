@@ -1,0 +1,10 @@
+prediciotn of mv sample are: ['pos' 'pos' 'neg' ..., 'pos' 'pos' 'neg']
+prediciotn  probability of mv sample are: [[ 0.2195122   0.7804878 ]
+ [ 0.2195122   0.7804878 ]
+ [ 0.88888889  0.11111111]
+ ..., 
+ [ 0.2195122   0.7804878 ]
+ [ 0.03030303  0.96969697]
+ [ 0.55208333  0.44791667]]
+accuracy of mv sample are: 53.5286530311
+Fi score of mv sample are: 0.540619307832

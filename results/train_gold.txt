@@ -1,0 +1,10 @@
+prediciotn of gold sample are: ['neg' 'neg' 'neg' ..., 'neg' 'pos' 'pos']
+prediciotn  probability of gold sample are: [[ 0.56028369  0.43971631]
+ [ 0.56028369  0.43971631]
+ [ 0.56028369  0.43971631]
+ ..., 
+ [ 0.56028369  0.43971631]
+ [ 0.39678899  0.60321101]
+ [ 0.39678899  0.60321101]]
+accuracy of gold sample are: 52.7634487841
+Fi score of gold sample are: 0.503485670023
